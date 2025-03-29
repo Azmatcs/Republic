@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-03-30T03:07:53 IST" name="Default suite" finished-at="2025-03-30T03:08:09 IST" duration-ms="15487">
+    <groups>
+    </groups>
+    <test started-at="2025-03-30T03:07:53 IST" name="Default test" finished-at="2025-03-30T03:08:09 IST" duration-ms="15487">
+      <class name="Assignment.Assign">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:Assignment.Assign@2925bf5b]" started-at="2025-03-30T03:07:53 IST" name="Setup" finished-at="2025-03-30T03:07:57 IST" duration-ms="3388" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="Home()[pri:0, instance:Assignment.Assign@2925bf5b]" started-at="2025-03-30T03:07:57 IST" name="Home" finished-at="2025-03-30T03:08:06 IST" duration-ms="9030" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Home -->
+        <test-method signature="HomePageTitle()[pri:1, instance:Assignment.Assign@2925bf5b]" started-at="2025-03-30T03:08:06 IST" name="HomePageTitle" finished-at="2025-03-30T03:08:06 IST" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePageTitle -->
+        <test-method signature="TopTab()[pri:2, instance:Assignment.Assign@2925bf5b]" started-at="2025-03-30T03:08:06 IST" name="TopTab" finished-at="2025-03-30T03:08:06 IST" duration-ms="55" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TopTab -->
+        <test-method signature="Story()[pri:3, instance:Assignment.Assign@2925bf5b]" started-at="2025-03-30T03:08:06 IST" name="Story" finished-at="2025-03-30T03:08:09 IST" duration-ms="2879" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Story -->
+      </class> <!-- Assignment.Assign -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
